@@ -1,0 +1,168 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    font-family: hero, serrif, sans-serif; 
+    height: 100vh; 
+    padding: -10px;
+    margin: 0px;
+}
+
+
+.section-one {
+    padding: 0 50px 50px;
+    background-color: #1f2937;
+    display:flex ;
+    flex-direction: column;
+}
+
+.section-two{
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.section-three{
+    padding: 0 50px;
+    font-size: 24px;
+    font-style: italic;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    margin: 50px;
+}
+
+.section-four{
+    padding: 0 50px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    flex-direction: row;
+    width: 600px;
+    height: 100px;
+    border-radius: 5px;
+    color: white;
+    gap: 10px;
+    
+}
+
+.section-five{
+    padding: 0 50px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    height: 20px;
+
+}
+
+.header-one{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.logo{
+    margin-right: auto;
+    font-size: 12px;
+    color: #f9faf8;
+}
+
+ul {
+    font-size: 8px;
+    color: #e5e7eb;
+    list-style-type: none;
+    display: flex;
+    gap: 8px;
+}
+
+.header-two{
+    color: #f9faf8;
+    font-weight:bolder;
+    display: flex;
+    justify-content: space-around;
+}
+
+.topic{
+    font-size: 36px;
+}
+
+.text-one{
+    font-size: 12px;
+}
+.shape{
+    width: 600px;
+    height: 200px;
+    color: white;
+    background-color: darkgray;
+    margin-left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.random-info{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.zone{
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+}
+
+.round-square{
+    width: 100px;
+    height: 100px;
+    border: 2px solid blue;
+    border-radius:10px;
+}
+
+.speaker{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
+.action{
+    display: flex;
+    width: 50px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: stretch;
+    justify-content: stretch;
+    min-height: 200px;
+}
+
+.button-two{
+    display: flex;
+    margin-left: 200px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.a, .b{
+    background-color: #3882f6;
+    font-weight: 500;
+    color: white;
+}
+
+.b{
+    border: 1px solid white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 50px;
+}
+.call{
+    font-weight: 600;
+}
