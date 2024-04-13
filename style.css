@@ -25,7 +25,7 @@
 
 .section-three{
     padding: 0 50px;
-    font-size: 24px;
+    font-size: 36px;
     font-style: italic;
     background-color: #e5e7eb;
     display: flex;
@@ -68,12 +68,12 @@
 
 .logo{
     margin-right: auto;
-    font-size: 12px;
+    font-size: 24px;
     color: #f9faf8;
 }
 
 ul {
-    font-size: 8px;
+    font-size: 18px;
     color: #e5e7eb;
     list-style-type: none;
     display: flex;
@@ -88,7 +88,7 @@ ul {
 }
 
 .topic{
-    font-size: 36px;
+    font-size: 48px;
 }
 
 .text-one{
@@ -106,7 +106,7 @@ ul {
 }
 
 .random-info{
-    font-size: 30px;
+    font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
     display: flex;
